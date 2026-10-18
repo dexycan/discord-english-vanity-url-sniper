@@ -1,0 +1,1 @@
+# discord-english-vanity-url-sniper
